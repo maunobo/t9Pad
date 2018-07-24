@@ -8,4 +8,5 @@ Different data structures and searching algorithms were used to finalise this ap
 
 The GUI was created using Swing.
 
-Predictive%20Text.png
+<img src="images/Predictive%20Text.png" width="25%" height="25%">
+
